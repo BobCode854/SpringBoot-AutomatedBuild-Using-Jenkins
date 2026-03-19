@@ -20,7 +20,7 @@ public class StudentController {
                 new Student(2, "Anita", 21, "Spring Boot"),
                 new Student(3, "Vikram", 22, "Microservices"),
                 new Student(4, "Neha", 19, "React"),
-                new Student(5, "Aman", 23, "DevOps")
+                new Student(5, "Aman", 24, "DevOps")
         );
     }
 }
